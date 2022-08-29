@@ -1,0 +1,28 @@
+{
+
+
+"app_id": "",
+
+"app_secret": "",
+
+"template_id": "",
+
+"user": ["oF_eZ6Cc3bxfI8Vljp_vJvw-hrss"，“Novsco_06th”],
+
+
+"weather_key": "",
+
+"tian_api": " ",
+
+"region": "社旗县",
+
+"birthday1": {"name": "小宝", "birthday": "1997-01-01"},
+
+"birthday2": {"name": "小林", "birthday": "r1997-01-01"},
+
+"love_date": "2018-04-28",
+
+"note_ch": "",
+
+"note_en": ""
+}
